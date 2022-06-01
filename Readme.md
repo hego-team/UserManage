@@ -12,6 +12,8 @@
 
 2. 测试文件没做好，只能检测返回的报文格式，具体内容手动检查。
 
+3.参考https://github.com/laolunsi/SsmDemo2.0
+
    
 
 ## 请求接口
